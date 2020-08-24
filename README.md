@@ -48,3 +48,8 @@ This site has some extra details about the forest which is burning with the fire
 
 There's a good overview of the entire plume here
 [Air Now Map](https://fire.airnow.gov/)
+
+
+## Contribute
+
+If you have something you think would be helpful feel free to make suggestion in an [issue](https://github.com/tfoote/fire-info/issues/new)
