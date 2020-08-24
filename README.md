@@ -2,24 +2,27 @@
 
 ### CZU Lightning Complex
 
-[The evacuation orders are pretty extensive](https://storymaps.arcgis.com/stories/f0121f7f2f0941afb3ed70529b2cee75?cover=false)
 
-[Calfire Incident Report](https://www.fire.ca.gov/incidents/2020/8/17/czu-lightning-complex/)
+[The evacuation orders are pretty extensive](https://storymaps.arcgis.com/stories/f0121f7f2f0941afb3ed70529b2cee75?cover=false) This is being kept up to date.
 
-[CalfireCZU on twitter](https://twitter.com/CALFIRECZU)
+[Calfire Incident Report](https://www.fire.ca.gov/incidents/2020/8/17/czu-lightning-complex/): The official incident report
+
+[CalfireCZU on twitter](https://twitter.com/CALFIRECZU) Incident specific twitter from Cal Fire.
+
+Other relevant twitter accounts:
 
 [Santa Cruz Sherrif Twitter](https://twitter.com/sccfiredept)
-
 [Santa Clara Sheriff Twitter](https://twitter.com/SCCoSheriff)
 [Santa Clara Fire Twitter](https://twitter.com/sccfiredept)
 
 
 ### SCU Lightning Complex
 
-[Cal Fire Incident Report](https://www.fire.ca.gov/incidents/2020/8/18/scu-lightning-complex/)
+[SCU Evacuation map](https://nifc.maps.arcgis.com/apps/View/index.html?appid=69fca73a82df4fefa7c0e48b66d0899d&extent=-123.2395,36.6849,-119.5618,38.1032)
 
+[Cal Fire Incident Report](https://www.fire.ca.gov/incidents/2020/8/18/scu-lightning-complex/): The official incident report.
 
-[CalFire SCU Twitter](https://twitter.com/calfireSCU)
+[CalFire SCU Twitter](https://twitter.com/calfireSCU) Incident specific twitter from Cal Fire
 
 
 
@@ -42,6 +45,8 @@
 ### Forest Observatory
 
 This site has some extra details about the forest which is burning with the fire overlaid: [Forest Observatory](https://forestobservatory.com/)
+
+Note: California Only
 
 
 ## Air Quality
