@@ -48,6 +48,11 @@ This site has some extra details about the forest which is burning with the fire
 
 Note: California Only
 
+### Symbology
+
+When looking at the firefigher's wildfire maps the symbols are defined in PMS 936 for [Point](https://www.nwcg.gov/publications/pms936/symbology/point), [Line](https://www.nwcg.gov/publications/pms936/symbology/line), and [Polygon](https://www.nwcg.gov/publications/pms936/symbology/polygon)
+
+There's a good verbal description of symbols you'll see on the map in [this video at 297 seconds](https://youtu.be/VsfBln5-Xak?t=297)
 
 ## Air Quality
 
