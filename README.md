@@ -5,7 +5,7 @@
 
 [The evacuation orders are pretty extensive](https://storymaps.arcgis.com/stories/f0121f7f2f0941afb3ed70529b2cee75?cover=false) This is being kept up to date.
 
-[Calfire Incident Report](https://www.fire.ca.gov/incidents/2020/8/17/czu-lightning-complex-including-warnella-fire/): The official incident report
+[Calfire Incident Report](https://www.fire.ca.gov/incidents/2020/8/16/czu-lightning-complex-including-warnella-fire/): The official incident report
 
 [CalfireCZU on twitter](https://twitter.com/CALFIRECZU) Incident specific twitter from Cal Fire.
 
