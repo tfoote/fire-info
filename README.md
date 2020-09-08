@@ -56,9 +56,14 @@ There's a good verbal description of symbols you'll see on the map in [this vide
 
 ## Air Quality
 
-There's a good overview of the entire plume here
-[Air Now Map](https://fire.airnow.gov/)
+* [Air Now Map](https://fire.airnow.gov/)
+  There's a good overview of the entire plume here
 
+* [Purple Air Quality Map](https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC0#8.94/37.3039/-121.792)
+  From the sensor maker
+  
+* [IQ Air Map](https://www.iqair.com/us/air-quality-map)
+  I can't localize the link.
 
 ## Contribute
 
