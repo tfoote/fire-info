@@ -24,7 +24,11 @@ Other relevant twitter accounts:
 
 [CalFire SCU Twitter](https://twitter.com/calfireSCU) Incident specific twitter from Cal Fire
 
+### Oregon Fires
 
+[RAPTOR Map](https://www.oregon.gov/oem/emops/Pages/RAPTOR.aspx) Real-time Assessment and Planning Tool for Oregon
+
+[Clackamas County GIS Map](https://ccgis-mapservice.maps.arcgis.com/apps/webappviewer/index.html?id=fe0525732f1a4f679b75a5ccf1c84b30) Evacuations and fire.
 
 ## Maps
 
