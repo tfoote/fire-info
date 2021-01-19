@@ -1,5 +1,11 @@
 ## Fires: 
 
+### Fanning Fire
+
+[Calfire Fanning Fire Incident Report](https://www.fire.ca.gov/incidents/2021/1/19/fanning-fire/)
+
+Twitter Tag: [#FanningFire](https://twitter.com/hashtag/FanningFire)
+
 ### CZU Lightning Complex
 
 
