@@ -1,13 +1,19 @@
 ## Fires: 
 
-### Fanning Fire
+### Bootleg Fire 2021
+
+[Inciweb Bootleg Fire](https://inciweb.nwcg.gov/incident/7609/)
+[ESRI map](https://www.arcgis.com/apps/webappviewer/index.html?id=2ff1677111ae4018ac705fcce7c3312f&extent=-14319912.491%2C3141764.6173%2C-11189051.8125%2C6233489.5374%2C102100)
+
+
+
+### Fanning Fire 2020
 
 [Calfire Fanning Fire Incident Report](https://www.fire.ca.gov/incidents/2021/1/19/fanning-fire/)
 
 Twitter Tag: [#FanningFire](https://twitter.com/hashtag/FanningFire)
 
-### CZU Lightning Complex
-
+### CZU Lightning Complex 2020
 
 [The evacuation orders are pretty extensive](https://storymaps.arcgis.com/stories/f0121f7f2f0941afb3ed70529b2cee75?cover=false) This is being kept up to date.
 
@@ -22,7 +28,7 @@ Other relevant twitter accounts:
 [Santa Clara Fire Twitter](https://twitter.com/sccfiredept)
 
 
-### SCU Lightning Complex
+### SCU Lightning Complex 2020
 
 [SCU Evacuation map](https://nifc.maps.arcgis.com/apps/View/index.html?appid=69fca73a82df4fefa7c0e48b66d0899d&extent=-123.2395,36.6849,-119.5618,38.1032)
 
@@ -30,7 +36,7 @@ Other relevant twitter accounts:
 
 [CalFire SCU Twitter](https://twitter.com/calfireSCU) Incident specific twitter from Cal Fire
 
-### Oregon Fires
+### Oregon Fires 2020
 
 [RAPTOR Map](https://www.oregon.gov/oem/emops/Pages/RAPTOR.aspx) Real-time Assessment and Planning Tool for Oregon
 
