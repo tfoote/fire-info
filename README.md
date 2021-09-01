@@ -44,6 +44,10 @@ Other relevant twitter accounts:
 
 ## Maps
 
+### NASA FIRMS US/CANADA
+
+[Fire Information for Resource Management System US/Canada looking at Caldor](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:2021-08-31..2021-09-01;l:noaa20-viirs=[tsd],viirs=[tsd],modis_a=[tsd],active-usa,active-ca,country-outline,fire-perimeter;@-120.0,38.9,12z)
+
 
 ### National Wildfire Coordinating Group
 
