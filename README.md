@@ -23,9 +23,9 @@ Twitter Tag: [#FanningFire](https://twitter.com/hashtag/FanningFire)
 
 Other relevant twitter accounts:
 
-[Santa Cruz Sherrif Twitter](https://twitter.com/sccfiredept)
-[Santa Clara Sheriff Twitter](https://twitter.com/SCCoSheriff)
-[Santa Clara Fire Twitter](https://twitter.com/sccfiredept)
+- [Santa Cruz Sheriff Twitter](https://twitter.com/sccfiredept)
+- [Santa Clara Sheriff Twitter](https://twitter.com/SCCoSheriff)
+- [Santa Clara Fire Twitter](https://twitter.com/sccfiredept)
 
 
 ### SCU Lightning Complex 2020
